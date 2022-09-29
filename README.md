@@ -1,2 +1,2 @@
 # testRepository
-little test to discover github from IBM certification
+Little test to discover Git and Github from IBM Certification.
